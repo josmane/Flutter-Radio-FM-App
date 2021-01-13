@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790292349227",
+    "firebase_url": "https://appradiotarasca-af813.firebaseio.com",
+    "project_id": "appradiotarasca-af813",
+    "storage_bucket": "appradiotarasca-af813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790292349227:android:0c4cd959d27b919c29456e",
+        "android_client_info": {
+          "package_name": "app.radiotarasca.appradiotarascamaravatio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790292349227-6he5550iie0fqn7e2jdct9st99vbe23p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHeVWrcvElBijXy4HiMG_L0VIFy_fM00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790292349227-6he5550iie0fqn7e2jdct9st99vbe23p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
